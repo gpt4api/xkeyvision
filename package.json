@@ -1,0 +1,14 @@
+{
+  "name": "xkeyvision",
+  "version": "13.0.1",
+  "description": "XKeyVision is a search engine and data archive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0day",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
